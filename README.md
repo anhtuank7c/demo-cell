@@ -28,3 +28,7 @@ Next we are already to run.
 ```
 bin/cake server
 ```
+
+## Preview
+
+![Reuse page component](http://image.prntscr.com/image/d269c0ea5df843618788184a1826f5e1.png)
