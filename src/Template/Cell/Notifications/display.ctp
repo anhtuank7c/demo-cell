@@ -1,0 +1,1 @@
+<a href="#"><?= $notifications->count()?> Unreads</a>
